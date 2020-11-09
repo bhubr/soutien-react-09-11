@@ -1,0 +1,24 @@
+.Nav ul {
+  background-color: #a8d8ea;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+.Nav ul {
+  list-style: none;
+}
+
+.Nav a {
+  padding: 1em;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.Nav .Menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

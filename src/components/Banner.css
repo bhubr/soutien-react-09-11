@@ -1,0 +1,12 @@
+.Banner {
+  background-position: center;
+}
+
+.Banner h1 {
+}
+
+.Banner img {
+  max-width: 100%;
+  height: 12em;
+  object-fit: cover;
+}
